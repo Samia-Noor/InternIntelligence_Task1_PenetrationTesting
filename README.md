@@ -15,8 +15,9 @@ The task involved performing **penetration testing** on OWASP Juice Shop using T
 - Firefox Browser
 
 ## Deliverables
-- Report (PDF/Word)
+- Report (PDF)
 - Screenshots
+- Video Recordings
 
 ## Internship
 [Intern Intelligence](https://www.internintelligence.com) — Cyber Security Internship
